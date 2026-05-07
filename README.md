@@ -14,7 +14,7 @@ DSA is important for:
 * AI Systems
 * Embedded Systems
 * Competitive Programming
-* Interviews
+* Interviews 
 * Robotics
 * Backend Development
 
