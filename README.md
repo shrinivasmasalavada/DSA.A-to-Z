@@ -1,4 +1,4 @@
-# DSA / Data Structures and Algorithms
+ # DSA / Data Structures and Algorithms
 
 DSA is one of the most important subjects in software engineering, programming interviews, competitive coding, and problem solving.
 
